@@ -10,11 +10,12 @@ We built a convolutional neural network (CNN) model to predict which task the pa
 
 ![Architecture of the Model](https://github.com/amiralism7/brain_activity_decoding-NMA_CN_2023/blob/main/Presentation/model.png?raw=true)
 
-Our model analyzed the neural activity patterns in the brain during the tasks and identified several important networks, including the Posterior-Mu, Cingulo-Opercular, and Frontopariet networks. These networks were found to be significantly more important for predicting the type of the given stimuli compared to other regions in the brain.
+Our model analyzed the neural activity patterns in the brain during the tasks and identified several important networks, including the Cingulo-Opercular and Frontopariet networks. These networks were found to be significantly more important for predicting the type of the given stimuli compared to other regions in the brain.
 
 Our findings contribute to a better understanding of the neural mechanisms underlying language processing during different cognitive tasks and highlight the importance of specific brain networks in this process. 
 The limitations of our study include the limited sample size and the potential for bias in the HCP dataset.
 Future research could expand on our findings, using larger and more diverse datasets to confirm our results and identify additional networks involved in language processing during cognitive tasks.  They can also extract more features from the model.
+
 In conclusion, our study demonstrates the potential of using permutation feature importance to identify key brain networks involved in language processing during different cognitive tasks.
 
 ### Members of the Team: 
